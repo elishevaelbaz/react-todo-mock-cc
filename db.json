@@ -3,22 +3,25 @@
     {
       "id": "1",
       "title": "Eat",
-      "completed": true
+      "completed": true,
+      "body": {
+        "completed": false
+      }
     },
     {
       "id": "2",
       "title": "Sleep",
-      "completed": false
+      "completed": true
     },
     {
       "id": "3",
       "title": "Listen to Eric talk about how much he loves Fortnite",
-      "completed": false
+      "completed": true
     },
     {
       "id": "4",
       "title": "Convince Eric there's more to life than Fortnite",
-      "completed": false
+      "completed": true
     },
     {
       "id": "5",
@@ -38,17 +41,20 @@
     {
       "id": "8",
       "title": "Code",
-      "completed": true
-    },
-    {
-      "id": "9",
-      "title": "NOT watch Eric play Fortnite",
-      "completed": true
+      "completed": true,
+      "body": {
+        "completed": false
+      }
     },
     {
       "id": "10",
       "title": "Ignore Eric's request to play Fortnite with him",
-      "completed": true
+      "completed": false
+    },
+    {
+      "title": "laundry",
+      "completed": true,
+      "id": "tYhsfwQ"
     }
   ]
 }
